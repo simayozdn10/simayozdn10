@@ -21,6 +21,11 @@
 - Tinkercad 3D Design Certificate (ALKEV & AG Robotics)
 - Speed Reading & Comprehension Certificate (Uzman Academy)
 - CodeWeek 2024 Certificate (Kodla Büyü)
+- ## 📜 Certifications
+
+I have combined all my certificates into a single PDF file.  
+👉 View All My Certificates (PDF) (https://drive.google.com/drive/u/0/folders/1pBfcAuooDvvvaibx6bSv3itxXVlvR6J2)
+
 
 ---
   
