@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Simay 👋
 
-<!--
-**simayozdn10/simayozdn10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 High school student from Istanbul, Turkey  
+🌍 Preparing for international studies (Germany, Canada, USA)  
+📚 Interested in science, genetics engineering, and chemistry  
+💻 Skills: Python, Arduino, Tinkercad, AI Fundamentals, Cybersecurity, IoT, Robotics  
+🏆 Competitions: TÜBİTAK Science Olympiads, TEKNOFEST, Mission X (ESA)  
+📖 Languages: Turkish (Native), English (B2), German (A2)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- DENEYAP Technology Stars Program (AI, IoT, Robotics)
+- Tinkercad 3D Design Projects
+- School Social Responsibility Project: *Step Away from Screens*
+
+---
+
+## 📜 Certifications
+- DENEYAP Certificates in 10 Technology Domains (2022–2024)
+- Tinkercad 3D Design Certificate (ALKEV & AG Robotics)
+- Speed Reading & Comprehension Certificate (Uzman Academy)
+- CodeWeek 2024 Certificate (Kodla Büyü)
+
+---
+  
+## 🌟 Goals
+- Preparing for Goethe-Zertifikat, TOEFL & IELTS exams  
+- Exploring opportunities in genetics engineering and chemistry  
+- Building innovative projects in AI & robotics
